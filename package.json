@@ -1,0 +1,27 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "readme generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "READ"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PHelberg/README-generator.git"
+  },
+  "keywords": [
+    "README",
+    "generator"
+  ],
+  "author": "PH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PHelberg/README-generator/issues"
+  },
+  "homepage": "https://github.com/PHelberg/README-generator#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "inquirer": "^9.1.5"
+  }
+}
